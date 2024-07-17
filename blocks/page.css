@@ -1,0 +1,12 @@
+.page {
+  background-color: black;
+  color: white;
+  margin-top: 45px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.page__content {
+  max-width: 880px;
+  max-height: 74px;
+}
