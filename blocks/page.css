@@ -4,6 +4,9 @@
   margin-top: 45px;
   margin-left: 200px;
   margin-right: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
 .page__content {
